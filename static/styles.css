@@ -1,0 +1,14 @@
+#center {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    width: 100%;
+}
+
+#content {
+    width: 400px;
+}
+
+nav {
+    margin-right: 1rem;
+}
